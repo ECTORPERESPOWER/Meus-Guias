@@ -9,5 +9,7 @@
 
 # Começando os meus estudos da matemática básica 12/10/2021 mesmo horario do português básico (Aprendendo numeros romanos pela khan academy) (Bora voar krl)
 
-2021 17 anos sem os conhecimentos básicos de nada (Nada que eu realmente tenha que usar um pouco de logíca ) Estou preso a apenas pensamentos mecanicos como jogar lol no prata
------------------------------------------------------------ Vou atualizar todo mes 12 em um arquivo diferente tudo que eu fiz no mes ou aprendi ------------------------------------
+### 2021 17 anos sem os conhecimentos básicos de nada (Nada que eu realmente tenha que usar um pouco de logíca ) Estou preso a apenas pensamentos mecanicos como jogar lol no prata
+
+
+#                      Vou atualizar todo mes 12 em um arquivo diferente tudo que eu fiz no mes ou aprendi 
