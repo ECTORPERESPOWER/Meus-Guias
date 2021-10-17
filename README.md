@@ -2,7 +2,7 @@
 
 ### começando 02/10 = java devdojo
 
-### Baixei meu primeiro linux 09/10 (Fedora Workstation 35), Procrastinei por 2 dias mas to voltando com tudo (Aprender um pouco mais sobre gramática do pt-br, e praticar o inglês)
+### Baixei meu primeiro linux 09/10 (Fedora Workstation 34), Procrastinei por 2 dias mas to voltando com tudo (Aprender um pouco mais sobre gramática do pt-br, e praticar o inglês)
 
 
 # Começando os meus estudos da lingua portuguêsa 12/10/2021  (Não entendo gramática básica não tenho nenhum conceito de gramatica ) = Começarei por fonemas
